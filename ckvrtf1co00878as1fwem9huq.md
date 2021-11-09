@@ -107,4 +107,4 @@ flowchart
 Hope ya'll have got an idea of how the flow direction of program works and how we can tray and test our logic without actually writing the code using flowcharts and pseudocodes.
 
 #### Reference
-%[https://www.youtube.com/watch?vlhELGQAV4gg]
+%[https://www.youtube.com/watch?v=lhELGQAV4gg]
