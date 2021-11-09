@@ -28,6 +28,7 @@ Doing this not only saves time but is also helpful when we want to change the co
 
 - These types of language follow ___first class function___ properties.
 If we can reassign a function to another function then the language is said to follow first class function properties. for example,
+
 ```
 function_1:
     some code block
@@ -39,6 +40,7 @@ function_2=function_1
 # here we assigned function_2 to be equal to function_1.
 # This is known as 1st class function behaviour
 ```
+
 An example of such programming language can be _python_. Mind that python may not follow purely functional language approach, I'm just saying that python does have first class functions.
 
 3. Object Oriented Programming (OOP)
@@ -108,4 +110,4 @@ Note:
 - There are no separate partitions or disks as heap and stack, it is just how the memory is managed by CPU. There is only one RAM which is managed in the said way
 
 #### Reference
-{% youtube wn49bJOYAZM %}
+%[https://www.youtube.com/watch?v=wn49bJOYAZM]
