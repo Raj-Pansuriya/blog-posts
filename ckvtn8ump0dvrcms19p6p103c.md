@@ -114,4 +114,10 @@ We can say that `JRE = JVM + some other files & tools`
 - Compiler javac inside JDK compiles it to form a .class file of byte code
 - JVM runs and the byte code and give us an executable code which is then run via JRE
 
+#### Reference
+
+
+%[https://www.youtube.com/watch?v=4EP8YzcN0hQ&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=3]
+
+
 In next article, we'll start with our `Hello World` Java code. Till then feel free to connect with me on my socials!!!
