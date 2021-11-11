@@ -1,7 +1,5 @@
 ## Getting Started with JAVA
 
-<script src="https://use.fontawesome.com/7e06574418.js"></script>
-
 You can install the latest version of java for Windows and macOS from its official site. For Linux-based distributions command line is the recommended option. Follow the instructions:
 - Install java for [MacOS](https://www.oracle.com/java/technologies/downloads/#jdk17-mac)
 - Install java for [Windows](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
