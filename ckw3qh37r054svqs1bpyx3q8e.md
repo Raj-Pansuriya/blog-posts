@@ -246,7 +246,7 @@ switch (day) {
 ```
 
 
-    There are so many other new features about which you can read in this [article](https://www.geeksforgeeks.org/enhancements-for-switch-statement-in-java-13/)
+There are so many other new features about which you can read in this [article](https://www.geeksforgeeks.org/enhancements-for-switch-statement-in-java-13/)
 
 ## Nested switch case
 In our last article, we saw nested if statements. Similarly, nested switch cases are basically `switch-case` inside a `switch-case`
