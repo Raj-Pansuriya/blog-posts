@@ -1,7 +1,7 @@
 ## Datatypes in JAVA
 
 ## Primitive Datatypes
-Primitive data types in Java are predefined by the Java language and named as the reserved keywords. A primitive data type does not share a state with other primitive values. Primitives are also the data types that one cannot break any further. For example, `Raj` is a data of `String` type. We can further break it into individual letters `R`, `a`, and `j` that are further unbreakable into any standalone datatype. All of the individual letters are said to be of `char` datatype. So the `String` is a `non-primitive datatype and `char` is a primitive datatype.
+Primitive data types in Java are predefined by the Java language and named as the reserved keywords. A primitive data type does not share a state with other primitive values. Primitives are also the data types that one cannot break any further. For example, `Raj` is a data of `String` type. We can further break it into individual letters `R`, `a`, and `j` that are further unbreakable into any standalone datatype. All of the individual letters are said to be of `char` datatype. So the `String` is a `non-primitive datatype` and `char` is a primitive datatype.
 
 Let's look at all the primitive data types supported by Java.
 
