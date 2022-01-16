@@ -30,7 +30,7 @@ double large_decimal = 8172612.769832;
 6. __boolean:__ The data types that have either `true` or `false` values. Very useful while writing conditional statements.
 ```
 bool check = true;
-bool var = flase;
+bool var = false;
 ```
 
 Also notice that the syntax to declare variables is as given in the above example.
